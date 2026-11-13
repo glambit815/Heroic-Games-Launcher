@@ -208,4 +208,4 @@ This repository serves as the official landing page for Heroic Games Launcher. T
 **Get the most recent version of Heroic Games Launcher today!**
 
 ---
-**Last updated:** 2026-11-12 18:02:06 UTC
+**Last updated:** 2026-11-13 00:01:51 UTC
